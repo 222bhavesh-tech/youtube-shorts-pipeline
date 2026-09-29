@@ -1,0 +1,184 @@
+{
+  "lang": "en",
+  "src": "D:\\youtube system\\output\\4k video\\en\\Last To Leave Mansion, Keeps It.mp4",
+  "plain": "D:\\youtube system\\output\\transcript\\en\\plain_mansion.txt",
+  "moments": "D:\\youtube system\\output\\temp\\moments_mansion.json",
+  "tag": "Last To Leave Mansion",
+  "measured": {
+    "3":  {"I": "-9.76",  "TP": "0.02", "LRA": "5.90", "TH": "-19.80"},
+    "4":  {"I": "-8.07",  "TP": "0.03", "LRA": "3.60", "TH": "-18.07"},
+    "13": {"I": "-10.85", "TP": "0.01", "LRA": "4.00", "TH": "-20.98"}
+  },
+  "base": "D:\\youtube system\\output\\final clips\\extreme\\en\\Last To Leave Mansion, Keeps It",
+  "hooks": {
+    "1": "LAST TO LEAVE KEEPS THE MANSION",
+    "2": "THEY ALL SAID MY VIDEOS WERE EASY",
+    "3": "I'M ALREADY THINKIN' ABOUT QUITTING",
+    "4": "YOU STARTED THIS, I'M GONNA FINISH IT",
+    "5": "I'M AN UNSTABLE MESS RIGHT NOW",
+    "6": "HE'S POURING RANCH ON THE CARPET",
+    "7": "MY BED GOT THROWN OFF THE BALCONY",
+    "8": "HE ALMOST QUIT FOR HIS CAT CUDDLES",
+    "9": "STOP THE LIMO! STOP THE LIMO!",
+    "10": "I TAKE IT BACK. IT'S NOT EASY",
+    "11": "HE GAVE UP THE MANSION FOR CHICK-FIL-A",
+    "12": "THIS MIGHT BE MY LAST VLOG",
+    "13": "I'LL SAY IT: YOUR CHALLENGES ARE HARD",
+    "14": "THIS IS MY HOUSE, BRO",
+    "15": "I'M GONNA DESTROY THE TV"
+  },
+  "slugs": {
+    "1": "last-to-leave-keeps-mansion",
+    "2": "they-said-my-videos-were-easy",
+    "3": "still-pretty-easy-so-he-quit",
+    "4": "started-a-full-blown-war",
+    "5": "unstable-mess-room-destroyed",
+    "6": "pouring-ranch-on-the-carpet",
+    "7": "bed-thrown-off-balcony",
+    "8": "almost-quit-over-his-cat",
+    "9": "stop-the-limo-day-5-quits",
+    "10": "tearing-the-mansion-to-shreds",
+    "11": "left-for-chick-fil-a",
+    "12": "handcuffed-undisclosed-time",
+    "13": "your-challenges-are-hard",
+    "14": "this-is-my-house-bro",
+    "15": "destroyed-both-tvs"
+  },
+  "meta": {
+    "1": {
+      "title": "Last To Leave The Mansion KEEPS IT! #shorts",
+      "desc": [
+        "Ten blindfolded contestants step into a million-dollar mansion with seven bedrooms.",
+        "One rule: whoever leaves last keeps the entire house. Step on the red line and you're out.",
+        "#Shorts #LastToLeave #MansionChallenge #MrBeastStyle #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "mansion challenge", "million dollar mansion", "seven bedrooms", "stay to win challenge", "red line challenge", "extreme challenge"]
+    },
+    "2": {
+      "title": "They All Said His Videos Were EASY #shorts",
+      "desc": [
+        "Chaise steals the TV remotes overnight - the only entertainment in the house is gone.",
+        "Then the twist: every contestant was picked because they said MrBeast's videos were extremely easy.",
+        "#Shorts #RemoteWar #MrBeastStyle #MansionChallenge #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "tv remote prank", "night one chaos", "they said it was easy", "hater challenge", "entertainment war"]
+    },
+    "3": {
+      "title": "They're STILL Pretty Easy... So He Quit #shorts",
+      "desc": [
+        "Day 2 is pure chaos - the house is already in shambles before 10AM.",
+        "One contestant is ready to quit, and he still claims the challenges are pretty easy.",
+        "#Shorts #QuittingAlready #MrBeastStyle #MansionChallenge #Extreme"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "quitting on day 2", "day 2 chaos", "first quitter", "house in shambles", "easy challenge claim"]
+    },
+    "4": {
+      "title": "The Mansion WAR: Doors Destroyed, Mattress Thrown #shorts",
+      "desc": [
+        "Doors kicked down, stools flying, and a mattress thrown off the balcony.",
+        "You wanna start something? Then I'm gonna finish it! The Day 2 war is on.",
+        "#Shorts #MansionWar #MrBeastStyle #FunnyChaos #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "mansion war", "doors destroyed", "mattress thrown", "day 2 fight", "funny chaos"]
+    },
+    "5": {
+      "title": "I'm An UNSTABLE MESS And Someone Destroyed My Room #shorts",
+      "desc": [
+        "Chaise calls himself an unstable mess while venting in the gym.",
+        "Then Kweli sneaks in and destroys his new room - and everyone's going to feel it.",
+        "#Shorts #RoomDestroyed #MrBeastStyle #MansionChallenge #Chaos"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "unstable mess", "room destroyed", "prank war", "kweli pranks", "gym venting"]
+    },
+    "6": {
+      "title": "He's POURING Ranch On The CARPET! #shorts",
+      "desc": [
+        "Retaliation hits different: an entire bottle of ranch poured on the carpet.",
+        "Doors ripped off hinges and boundaries crossed - Chaise takes it out on the whole house.",
+        "#Shorts #RanchOnTheCarpet #MrBeastStyle #PrankWar #FunnyShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "ranch prank", "ranch on carpet", "door destroyed", "prank revenge", "gross prank"]
+    },
+    "7": {
+      "title": "They Threw His BED Off The Balcony! #shorts",
+      "desc": [
+        "The stairs are covered in barbecue sauce and someone's bed went off the balcony.",
+        "The boys clean up together and build a project to win the last TV remote.",
+        "#Shorts #BalconyBed #MrBeastStyle #MansionChaos #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "bed off balcony", "barbecue sauce stairs", "cleaning the mansion", "teamwork", "tv remote project"]
+    },
+    "8": {
+      "title": "He Almost QUIT Over His Cat Named Cuddles #shorts",
+      "desc": [
+        "The arcade win finally gets the remote back - then Jimmy tempts a contestant with home.",
+        "He was ready to quit for his cat Cuddles... then he talks himself back in.",
+        "#Shorts #CatCuddles #MrBeastStyle #AlmostQuit #MansionChallenge"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "cat cuddles", "almost quit", "arcade win", "getting the remote back", "pet love"]
+    },
+    "9": {
+      "title": "3 Quit In One Day! Stop The LIMO! #shorts",
+      "desc": [
+        "Stop the limo! Quits keep piling up as one contestant leaves to see his mom.",
+        "Three of the biggest haters are gone by Day 5, and one refuses to apologize on the way out.",
+        "#Shorts #TheyKeepDropping #MrBeastStyle #Quitters #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "stop the limo", "quitters", "see my mom", "day 5 quits", "refuse to apologize"]
+    },
+    "10": {
+      "title": "They're Tearing The MANSION To Shreds! #shorts",
+      "desc": [
+        "No Chaise, no rules - books on the basketball court, gym equipment trashed, windows broken.",
+        "One hater finally admits: I take it back. It's not easy. Day 10 of mayhem.",
+        "#Shorts #MansionMayhem #MrBeastStyle #ItsNotEasy #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "mansion mayhem", "gym destroyed", "windows broken", "its not easy", "day 10"]
+    },
+    "11": {
+      "title": "He Left For A 10-Dollar CHICK-FIL-A Meal! #shorts",
+      "desc": [
+        "A 30-piece nugget meal is all it takes - he gives up the mansion for Chick-fil-A.",
+        "Then Jimmy brings out the handcuffs: pair up, stay chained, or be eliminated.",
+        "#Shorts #ChickFilA #MrBeastStyle #HandcuffChallenge #Extreme"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "chick fil a challenge", "handcuff challenge", "30 nuggets", "leaving for food", "new twist"]
+    },
+    "12": {
+      "title": "Handcuffed For An UNDISCLOSED Amount Of Time #shorts",
+      "desc": [
+        "Handcuffed for an undisclosed amount of time - could be a day, could be a year.",
+        "Bathroom breaks, four-way chains, and one vlogger warning: this might be my last vlog.",
+        "#Shorts #HandcuffedChallenge #MrBeastStyle #MansionChallenge #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "handcuffed together", "undisclosed time", "bathroom challenge", "last vlog", "chained four ways"]
+    },
+    "13": {
+      "title": "\"Your Challenges Are HARD\" - He Quit On Camera #shorts",
+      "desc": [
+        "After one day in chains, a contestant quits on camera: your challenges are hard.",
+        "Down to eight, bonds form - and Kweli reveals the million would go to his parents.",
+        "#Shorts #YourChallengesAreHard #MrBeastStyle #Emotional #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "challenges are hard", "on camera quit", "kweli story", "parents first", "bonding"]
+    },
+    "14": {
+      "title": "\"This Is My HOUSE, Bro\" - But He Might Lose #shorts",
+      "desc": [
+        "Asher declares this is my house, bro while the others plot his elimination.",
+        "Kweli fights for his retired dad - and by Day 19, boredom takes over the mansion.",
+        "#Shorts #ThisIsMyHouse #MrBeastStyle #MansionDrama #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "this is my house", "asher confidence", "eliminate asher", "day 19 bored", "mansion drama"]
+    },
+    "15": {
+      "title": "They DESTROYED Both TVs! Someone's OUT At 10PM #shorts",
+      "desc": [
+        "Uthy smashes both TVs to force a domino effect of quitters.",
+        "At 10PM Jimmy arrives with an iPad - and someone finally steps out for good.",
+        "#Shorts #TVDestroyed #MrBeastStyle #SurpriseElimination #ViralShorts"
+      ],
+      "tags": ["shorts", "viral shorts", "mrbeast style", "youtube shorts", "last to leave challenge", "destroy the tv", "tv smash", "domino effect", "10pm elimination", "surprise exit"]
+    }
+  }
+}

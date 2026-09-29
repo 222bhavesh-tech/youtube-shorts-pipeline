@@ -1,0 +1,45 @@
+# Output — generated media stays untracked
+output/temp/
+output/4k video/
+output/transcript/
+output/**/clips/
+output/**/thumbnails/
+output/face_track/
+
+# Secrets
+system/youtube-mcp-seo/.env
+system/youtube-mcp-server/client_secret.json
+
+# Demo assets + ML model binaries (clean-start rule: code/config/docs only)
+system/youtube-mcp-seo/Demos/
+*.task
+*.tflite
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+_tmp_*
+
+# Overlay loop project — never commit
+funclip-overlay/
+
+# Media — NO videos/audio in the repo (fresh-start rule 2026-09-29)
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.m4a
+*.h264.mp4
+
+# Encode markers / generated overlay text
+*.ok
+enc*.ok
+*.ass
+hook*.txt

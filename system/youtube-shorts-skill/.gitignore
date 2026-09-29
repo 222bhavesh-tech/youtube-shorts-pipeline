@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.mp4
+*.webm
+*.mkv
+*.srt
+*.ass
+*.jpg
+*.png

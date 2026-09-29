@@ -1,0 +1,10 @@
+{
+  "source_url": "https://youtube.com/watch?v=AbFXuGDRTs",
+  "source_channel": "@original_youtuber",
+  "niche": "extreme",
+  "language": "en",
+  "channels": ["test"],
+  "audio_tracks": ["en"],
+  "routed_at": "2026-09-29T18:00:00",
+  "routed_by": "manual"
+}

@@ -1,0 +1,14 @@
+{
+  "source_url": "",
+  "source_channel": "",
+  "niche": "extreme",
+  "language": "en",
+  "channels": [
+    "test"
+  ],
+  "audio_tracks": [
+    "en"
+  ],
+  "routed_at": "2026-09-29T11:34:45",
+  "routed_by": "manual"
+}

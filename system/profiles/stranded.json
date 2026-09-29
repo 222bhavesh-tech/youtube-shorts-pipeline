@@ -1,0 +1,375 @@
+{
+ "src": "D:\\youtube system\\output\\4k video\\en\\I Stranded 100 People In The Wilderness For $250,000.mp4",
+ "lang": "en",
+ "plain": "D:\\youtube system\\output\\transcript\\en\\plain_stranded.txt",
+ "moments": "D:\\youtube system\\output\\temp\\moments_stranded.json",
+ "tag": "I Stranded 100 People v2",
+ "base": "D:\\youtube system\\output\\final clips\\extreme\\en\\I Stranded 100 People\\v2",
+ "measured": {},
+ "hooks": {
+  "1": "100 PEOPLE STRANDED FOR $250,000",
+  "2": "I'M 66 WITH DOUBLE KNEE REPLACEMENT",
+  "3": "THE FIRST TWO OUT WERE EXPERTS",
+  "4": "THEIR SNACKS LASTED ONLY 2 DAYS",
+  "5": "SHE WANTS TO STARVE HER OWN TEAM",
+  "6": "THEIR TEAMMATES STOLE THE FOOD STASH",
+  "7": "EXPERTS DOWN BY NINE ALREADY",
+  "8": "THIS IS NOT COMFORT IT'S SURVIVAL",
+  "9": "I WANT A MILKSHAKE SO BAD",
+  "10": "THIS WILL FUNDAMENTALLY CHANGE THE VIDEO",
+  "11": "I'M ABOUT TO EAT MY TOOTHPASTE",
+  "12": "A TORNADO IS COMING STRAIGHT FOR US",
+  "13": "THE COLDEST NIGHT OF THE CHALLENGE",
+  "14": "THE 50 CAN CHALLENGE RESULTS ARE IN",
+  "15": "THREE PEOPLE QUIT AT THE SAME TIME"
+ },
+ "slugs": {
+  "1": "100-people-stranded",
+  "2": "first-tap-out-66",
+  "3": "experts-eliminated-first",
+  "4": "snacks-gone-in-two-days",
+  "5": "starving-her-teammates",
+  "6": "teammates-food-stash",
+  "7": "experts-down-by-nine",
+  "8": "not-comfort-its-survival",
+  "9": "i-want-a-milkshake",
+  "10": "change-the-video",
+  "11": "eating-my-toothpaste",
+  "12": "tornado-hits-camp",
+  "13": "coldest-night-yet",
+  "14": "the-50-can-results",
+  "15": "three-people-quit"
+ },
+ "meta": {
+  "1": {
+   "title": "100 People Stranded In The WILDERNESS For $250,000 #shorts",
+   "desc": [
+    "100 strangers, two teams, and one wilderness - $250,000 for the survivors.",
+    "Survival experts vs total amateurs. Which team is standing when help arrives?",
+    "#Shorts #MrBeast #WildernessSurvival #SurvivalChallenge"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "2": {
+   "title": "The First QUITTER Was A 66-Year-Old Expert #shorts",
+   "desc": [
+    "Night one in the wild - and the first elimination hits immediately.",
+    "A 66-year-old with double knee replacements had to light his flare and go home.",
+    "#Shorts #StrandedChallenge #Survival #Wilderness"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "3": {
+   "title": "The EXPERTS Got Eliminated Before Amateurs #shorts",
+   "desc": [
+    "The survival experts went home first. Let that sink in.",
+    "Amateurs slept in style while the pros failed to build shelters that held up.",
+    "#Shorts #SurvivalExperts #WildernessChallenge #MrBeast"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "4": {
+   "title": "Their Snacks Lasted Only TWO DAYS Out There #shorts",
+   "desc": [
+    "Two days of nonstop snacking - and now there is nothing left.",
+    "The red team faces an empty stomach while the blue team turns the forest into a grocery store.",
+    "#Shorts #FoodChallenge #SurvivalChallenge #Wilderness"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "5": {
+   "title": "She Tried To STARVE Her Own Teammates #shorts",
+   "desc": [
+    "Food caches hidden in the forest - but not everyone wants to share.",
+    "One player refuses to let teammates control the rations, even if it means starving them.",
+    "#Shorts #FoodRations #Survival #TeamDrama"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "6": {
+   "title": "Teammates STOLE The Food Stash And Got Kicked #shorts",
+   "desc": [
+    "A secret stash of food was found - and the team turned on their own.",
+    "Five people gone, tensions boiling, and the $250,000 prize pulling everyone apart.",
+    "#Shorts #MrBeast #SurvivalChallenge #Betrayal"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "7": {
+   "title": "Experts DOWN BY NINE On Day Five #shorts",
+   "desc": [
+    "Fifty control freaks, one apple a day, and zero chill.",
+    "By day five the experts are down nine people and the arguments keep coming.",
+    "#Shorts #SurvivalGame #Hungry #Wilderness"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "8": {
+   "title": "This Is Not Comfort. This Is SURVIVAL. #shorts",
+   "desc": [
+    "Cold nights, wet ground, and standards dropping by the hour.",
+    "This stopped being comfort a long time ago - now it is pure survival.",
+    "#Shorts #SurvivalChallenge #ColdNights #MrBeast"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "9": {
+   "title": "I Just Want A MILKSHAKE So Bad #shorts",
+   "desc": [
+    "Two red team members quit over a lost breakfast.",
+    "No fruit, no milkshakes, and one meltdown nobody saw coming.",
+    "#Shorts #Meltdown #SurvivalChallenge #Funny"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "10": {
+   "title": "Jimmy's Plan Changed EVERYTHING Out There #shorts",
+   "desc": [
+    "Jimmy arrives with a surprise that flips the entire game.",
+    "Fifty cans of food on the line - and both teams already plotting how to cheat.",
+    "#Shorts #MrBeast #CanChallenge #Strategy"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "11": {
+   "title": "I'm About To Eat My TOOTHPASTE Now #shorts",
+   "desc": [
+    "Day eight: poison ivy, empty traps, and real hunger setting in.",
+    "One player is so hungry they are about to eat toothpaste.",
+    "#Shorts #Hungry #Survival #Wilderness"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "12": {
+   "title": "A TORNADO Hit The Camp Mid-Challenge #shorts",
+   "desc": [
+    "A massive storm - maybe a tornado - tears through the camps.",
+    "Fifteen degrees dropped in ten minutes and the shelters are falling apart.",
+    "#Shorts #StormSurvival #Tornado #SurvivalChallenge"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "13": {
+   "title": "The COLDEST Night Of The Whole Challenge #shorts",
+   "desc": [
+    "The coldest night yet froze everything - leaves, money box, morale.",
+    "Waking up to frost everywhere while the rain flood destroys the fire pit.",
+    "#Shorts #Freezing #SurvivalChallenge #ColdNights"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "14": {
+   "title": "The 50 CAN Challenge Results Are In #shorts",
+   "desc": [
+    "The results of the 50 can challenge are finally in.",
+    "Both teams return every single can - and nobody wins a thing.",
+    "#Shorts #CanChallenge #MrBeast #Results"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  },
+  "15": {
+   "title": "THREE People Quit At The Same Time #shorts",
+   "desc": [
+    "Three people quit the moment the results were announced.",
+    "Nobody earned a reward, morale collapsed, and the exits kept filling up.",
+    "#Shorts #QuitChallenge #SurvivalChallenge #Drama"
+   ],
+   "tags": [
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "stranded challenge",
+    "wilderness survival",
+    "survival challenge",
+    "survival experts",
+    "250000 dollars",
+    "outdoor challenge",
+    "team challenge",
+    "extreme challenge"
+   ]
+  }
+ }
+}

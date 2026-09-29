@@ -1,0 +1,32 @@
+{
+  "extreme_en": {
+    "channels": [
+      {
+        "id": "test",
+        "handle": "@your_test_channel",
+        "audience": "IN",
+        "language": "en",
+        "category_id": 22,
+        "token_env": "YT_TOKEN_TEST",
+        "schedule": "Sat 14:00 UTC",
+        "max_per_day": 3,
+        "style": "curiosity_gap"
+      }
+    ]
+  },
+  "extreme_hi": {
+    "channels": []
+  },
+  "facts_en": { "channels": [] },
+  "facts_hi": { "channels": [] },
+  "funny_en": { "channels": [] },
+  "funny_hi": { "channels": [] },
+  "kids_en": { "channels": [] },
+  "kids_hi": { "channels": [] },
+  "motivation_en": { "channels": [] },
+  "motivation_hi": { "channels": [] },
+  "movies_en": { "channels": [] },
+  "movies_hi": { "channels": [] },
+  "podcast_en": { "channels": [] },
+  "podcast_hi": { "channels": [] }
+}

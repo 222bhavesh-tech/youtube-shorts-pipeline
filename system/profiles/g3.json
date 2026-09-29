@@ -1,0 +1,390 @@
+{
+ "src": "D:\\youtube system\\output\\4k video\\en\\I Survived The Most Extreme Places On Earth [gTKS8SAwUzE].h264.mp4",
+ "lang": "en",
+ "plain": "D:\\youtube system\\output\\transcript\\en\\plain_g3.txt",
+ "moments": "D:\\youtube system\\output\\temp\\moments_g3.json",
+ "tag": "I Survived Extreme Places v2",
+ "base": "D:\\youtube system\\output\\final clips\\extreme\\en\\I Survived Extreme Places\\v2",
+ "measured": {},
+ "hooks": {
+  "1": "THREE BIOMES THAT WANT US DEAD",
+  "2": "OUR DANGER IS LITERALLY DEATH",
+  "3": "HE BUILT A BRIDGE TO SAVE HIS WIFE",
+  "4": "CAMPING EARLY COULD LOSE US THE RACE",
+  "5": "WE FOUND A SKELETON IN THE WILDERNESS",
+  "6": "THE BIGGEST MISTAKE OF THIS VIDEO",
+  "7": "A RAFT ACROSS A RIVER OF ANACONDAS",
+  "8": "WE SPY ON OUR RIVALS ALL NIGHT",
+  "9": "I ASKED AI HOW TO BUILD A RAFT",
+  "10": "A GIANT SHARK TOOTH IN THE DESERT",
+  "11": "THE CRAZIEST THING I'VE EVER DONE",
+  "12": "WE MISSED THE LAND BY TWO MILES",
+  "13": "WE LEFT OUR TENT TO WIN THE RACE",
+  "14": "JIMMY THREW UP FROM PURE EXHAUSTION",
+  "15": "A 50 MPH STORM STOPPED THE FINISH"
+ },
+ "slugs": {
+  "1": "three-deadly-biomes",
+  "2": "our-danger-is-death",
+  "3": "bridge-for-his-wife",
+  "4": "camping-early-mistake",
+  "5": "skeleton-in-the-wild",
+  "6": "dumping-the-supplies",
+  "7": "raft-over-anacondas",
+  "8": "spying-all-night",
+  "9": "ai-built-our-raft",
+  "10": "shark-tooth-in-desert",
+  "11": "swept-down-the-river",
+  "12": "two-miles-off-course",
+  "13": "all-night-mountain-push",
+  "14": "jimmy-threw-up",
+  "15": "storm-at-the-finish"
+ },
+ "meta": {
+  "1": {
+   "title": "I SURVIVED The Most Extreme Places On Earth #shorts",
+   "desc": [
+    "Three teams dropped into a jungle, a desert, and Antarctica - first to the helicopter wins $100,000 for their moms.",
+    "No gear, no crew, just a map and a race where everything tries to kill you.",
+    "#Shorts #ExtremeSurvival #SurvivalRace #MrBeast"
+   ],
+   "tags": [
+    "biome survival race",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "2": {
+   "title": "Their Team Was Only 2% Done In A BLIZZARD #shorts",
+   "desc": [
+    "Zero visibility, frozen toes, and a team sitting at just 2% of the race.",
+    "With the trail gone, setting up camp immediately might be their only shot at surviving the night.",
+    "#Shorts #Antarctic #BlizzardSurvival #ExtremeChallenge"
+   ],
+   "tags": [
+    "antarctic blizzard",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "3": {
+   "title": "He Built A BRIDGE Across The Amazon #shorts",
+   "desc": [
+    "One fallen log, a rope, and a husband who refused to let his wife get soaked.",
+    "A filter bottle makes the river drinkable - but they are still only 10% of the way to rescue.",
+    "#Shorts #AmazonJungle #SurvivalBuild #ExtremeChallenge"
+   ],
+   "tags": [
+    "amazon bridge",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "4": {
+   "title": "They're In FIRST Place But Made A TERRIBLE Mistake #shorts",
+   "desc": [
+    "Dune after dune, 35 pounds of water each - and they just took the lead.",
+    "Then they did the one thing you never do in a race: stopped to camp while rivals kept walking.",
+    "#Shorts #DesertSurvival #RaceDrama #ExtremeChallenge"
+   ],
+   "tags": [
+    "desert dunes",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "5": {
+   "title": "They Found A SKELETON While Losing The Race #shorts",
+   "desc": [
+    "Deep in the canyon, a skull has them guessing animal or human.",
+    "One quarter of the race done - and for the first time, Jimmy's team has the lead.",
+    "#Shorts #Skeleton #WildernessRace #MrBeast"
+   ],
+   "tags": [
+    "wilderness skeleton",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "6": {
+   "title": "They Threw Away 32 Pounds Of SUPPLIES #shorts",
+   "desc": [
+    "Four eight-pound packs are slowing them down - so they dump the weight.",
+    "It might be the biggest mistake of the video. Night falls and the tent fight begins.",
+    "#Shorts #SurvivalMistake #JungleRace #ExtremeChallenge"
+   ],
+   "tags": [
+    "survival gear drop",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "7": {
+   "title": "Their Next Move: A RAFT Filled With Anacondas #shorts",
+   "desc": [
+    "Camp is set on the river - tomorrow they build a raft and sail through piranhas and anacondas.",
+    "FaceTime across the teams reveals the standings: 40%, 33%, and a shocking 7%.",
+    "#Shorts #RaftBuild #AmazonRace #SurvivalChallenge"
+   ],
+   "tags": [
+    "river raft build",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "8": {
+   "title": "They Woke Up FIRST And Took A Head Start #shorts",
+   "desc": [
+    "All night in the tent, watching the tracker to make sure nobody moves without them.",
+    "Sunrise brings clear skies and an oasis - but that current is far too strong to swim.",
+    "#Shorts #HeadStart #RiverRace #ExtremeChallenge"
+   ],
+   "tags": [
+    "night race strategy",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "9": {
+   "title": "They Asked AI To Build Their RAFT #shorts",
+   "desc": [
+    "Bamboo, rope, and a survival plan straight from an AI chatbot.",
+    "Then comes the gamble: a shortcut so risky it could cost them the entire challenge.",
+    "#Shorts #AISurvival #RaftBuild #ExtremeChallenge"
+   ],
+   "tags": [
+    "ai raft build",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "10": {
+   "title": "A GIANT Shark Tooth Found In The Desert?! #shorts",
+   "desc": [
+    "The Peruvian desert was once a shallow ocean - and they just found the proof.",
+    "Zip ties become raft genius, and the Arctic team suddenly takes the lead.",
+    "#Shorts #SharkTooth #DesertFind #SurvivalRace"
+   ],
+   "tags": [
+    "desert shark tooth",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "11": {
+   "title": "Their RAFT Is At The Mercy Of The Current #shorts",
+   "desc": [
+    "One tiny raft, three people, and a river that refuses to let them stop.",
+    "Bags ride on Thea while the others get drenched, kicking with everything they have.",
+    "#Shorts #RiverRaft #DangerousRace #SurvivalChallenge"
+   ],
+   "tags": [
+    "river crossing",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "12": {
+   "title": "Missing This Spot Cost Them TWO MILES #shorts",
+   "desc": [
+    "One wrong landing and the shortcut became a longcut - two miles downriver.",
+    "Legs shaking on shore, the standings read 58%, 47%, 40% - anyone's game.",
+    "#Shorts #RiverRace #Comeback #ExtremeChallenge"
+   ],
+   "tags": [
+    "race standings",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "13": {
+   "title": "They Abandoned Their Tent For An ALL-NIGHT Push #shorts",
+   "desc": [
+    "Drop the tent, keep the sleeping bag, and walk all night to the helicopter.",
+    "A mountain stands between them and extraction - knees shaking, a storm rolling in.",
+    "#Shorts #NightHike #MountainRace #SurvivalChallenge"
+   ],
+   "tags": [
+    "night mountain hike",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "14": {
+   "title": "FIVE More Hills Destroyed Their Race #shorts",
+   "desc": [
+    "Just when they thought it was over: five more hills and a storm building.",
+    "Walking blind for an hour pushes their bodies to the absolute limit - Jimmy starts throwing up.",
+    "#Shorts #DesertRace #PhysicalLimit #ExtremeChallenge"
+   ],
+   "tags": [
+    "sandstorm survival",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  },
+  "15": {
+   "title": "A 50 MPH Storm STALLED Their Final Push #shorts",
+   "desc": [
+    "Mom's send-off, one final sprint - then 50-mile-an-hour gusts blind them mid-run.",
+    "Visibility dies and they hunker down. Behind them, Thea is pushing the bag at 72%.",
+    "#Shorts #Sandstorm #FinishLine #SurvivalRace"
+   ],
+   "tags": [
+    "50 mph wind",
+    "shorts",
+    "viral shorts",
+    "youtube shorts",
+    "mrbeast",
+    "extreme challenge",
+    "survival race",
+    "jungle survival",
+    "desert survival",
+    "antarctic survival",
+    "helicopter race",
+    "extreme places",
+    "survival challenge"
+   ]
+  }
+ }
+}
